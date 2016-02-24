@@ -1,5 +1,5 @@
 {
-  "author": "Theo Ephraim <theozero@gmail.com> (http://theoephraim.com)",
+  "author": "Alexis Ardouin",
   "name": "google-spreadsheet",
   "description": "Google Spreadsheet Data API -- simple interface to read/write rows + cells",
   "version": "1.1.4",
@@ -10,10 +10,10 @@
     "gdata",
     "api"
   ],
-  "homepage": "https://github.com/theoephraim/node-google-spreadsheet",
+  "homepage": "https://github.com/aardouin/node-google-spreadsheet",
   "repository": {
     "type": "git",
-    "url": "git://github.com/theoephraim/node-google-spreadsheet.git"
+    "url": "git://github.com/aardouin/node-google-spreadsheet.git"
   },
   "main": "index.js",
   "engines": {
